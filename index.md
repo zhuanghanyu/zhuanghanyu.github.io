@@ -1,30 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to 188 Memo Helper App's Support Pages
 
-You can use the [editor on GitHub](https://github.com/zhuanghanyu/zhuanghanyu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use it as the memo assistent. With it quickly wirte down what you want.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+And You can share it to the other people with AirDrop, Email , Print As the iOS provied share methods.
 
-### Markdown
+### Screen
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+![Image]({{ site.url }}/assets/s-3.jpg)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
